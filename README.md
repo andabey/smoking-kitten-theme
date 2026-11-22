@@ -36,8 +36,7 @@ claude plugin install kedi-tema --marketplace andabey/smoking-kitten-theme
 In the desktop app: click + next to the prompt box, then Plugins, Add marketplace with
 `andabey/smoking-kitten-theme`, then Add plugin.
 
-This repository is private: it installs only for people who can read it on GitHub and whose
-computer already holds a git credential for github.com (an SSH key, or `gh auth login` then
-`gh auth setup-git`).
+The repository is public, so anyone can install it with these lines; no GitHub sign-in is needed.
 
-The backdrop is drawn from a picture its owner chose for themselves; keep the repository private.
+The backdrop is a vector redraw of a picture found online, and this repository holds no copy of
+the picture itself.
