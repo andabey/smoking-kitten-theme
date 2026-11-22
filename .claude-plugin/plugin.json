@@ -1,0 +1,6 @@
+{
+  "name": "kedi-tema",
+  "version": "0.1.0",
+  "description": "A sunset meadow with a kitten, moving smoke and sun shafts behind the chat, and a music player above the message box.",
+  "types": "./types/index.d.ts"
+}

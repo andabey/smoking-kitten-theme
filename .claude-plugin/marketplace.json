@@ -1,0 +1,12 @@
+{
+  "name": "smoking-kitten-theme",
+  "owner": {
+    "name": "andabey"
+  },
+  "plugins": [
+    {
+      "name": "kedi-tema",
+      "source": "./"
+    }
+  ]
+}

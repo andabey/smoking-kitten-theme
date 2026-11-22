@@ -1,0 +1,10 @@
+Deathmatch TR
+
+This is Deathmatch by KongFont (https://fontkong.com/), version 1.00 of August 17, 2020,
+with the Turkish letters it lacks added: Ş ş Ğ ğ İ. They are made from the font's own marks,
+and the breve over Ğ ğ is drawn to the size of its caron. The font is renamed Deathmatch TR
+so it never stands in for the original.
+
+The original's license, from its download (https://www.fontspace.com/deathmatch-font-f51274):
+Creative Commons Attribution-NonCommercial (CC BY-NC). Use it for nothing commercial.
+A commercial license for the original is sold at https://fontkong.com/product/deathmatch/
